@@ -6,6 +6,6 @@ It is large enough to house the PCI-E NVMe SSD interface card.
 
 Designed with OpenSCAD.
 
-![image of lid](https://github.com/ulf-westermann/rockpro64-case/tree/main/doc/rockpro64-case-lid.png)
+![image of lid](https://github.com/ulf-westermann/rockpro64-case/blob/main/doc/rockpro64-case-lid.png)
 
-![image of box](https://github.com/ulf-westermann/rockpro64-case/tree/main/doc/rockpro64-case-box.png)
+![image of box](https://github.com/ulf-westermann/rockpro64-case/blob/main/doc/rockpro64-case-box.png)
